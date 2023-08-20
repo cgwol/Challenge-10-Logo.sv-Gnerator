@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-# Challenge-10-Logo.sv-Gnerator
-=======
 # Challenge-10-Logo.svg-Generator
 ![MIT License](https://img.shields.io/badge/license-MIT-blue)
 
@@ -24,14 +21,14 @@
 
   in the command line
 
-### Usage
-run app by using 
+## Usage
+  run app by using 
   
-  node index.js
+    node index.js
 
-in the command line
+  in the command line
 
-![ss](./test/ss.png)
+  ![ss](./test/ss.png)
 
 ## License
   This application is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license
@@ -48,4 +45,3 @@ in the command line
 
 ## Video
     [Video](https://drive.google.com/file/d/1iLrbAZHkmm8xVVBvXWi4_0dkTrlivfD-/view?usp=sharing)
->>>>>>> Stashed changes
