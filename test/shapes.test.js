@@ -1,6 +1,6 @@
 const { Circle, Square, Triangle } = require('../lib/shapes');
 
-describe('Logo renders', () => {
+describe('shapes.js tests', () => {
     describe('Circle Logo Render', () => {
         it('Should return the proper svg file structure passed for the circle logo.', () =>{
             const circle = new Circle('ABC', 'white', 'red');
