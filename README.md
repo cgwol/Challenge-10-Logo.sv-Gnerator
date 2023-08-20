@@ -28,6 +28,8 @@
 
   in the command line
 
+  [ss](./test/ss.png)
+
 ## License
   This application is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license
   
@@ -42,4 +44,4 @@
   Created by: [cgwol](https://github.com/cgwol/)
 
 ## Video
-
+    [Video](https://drive.google.com/file/d/1iLrbAZHkmm8xVVBvXWi4_0dkTrlivfD-/view?usp=sharing)
