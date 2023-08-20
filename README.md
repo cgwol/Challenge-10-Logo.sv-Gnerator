@@ -44,4 +44,4 @@
   Created by: [cgwol](https://github.com/cgwol/)
 
 ## Video
-    ![Video](https://drive.google.com/file/d/1iLrbAZHkmm8xVVBvXWi4_0dkTrlivfD-/view?usp=sharing)
+    [Video Link](https://drive.google.com/file/d/1iLrbAZHkmm8xVVBvXWi4_0dkTrlivfD-/view?usp=sharing "Video Link")
