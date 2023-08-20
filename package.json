@@ -2,5 +2,19 @@
   "dependencies": {
     "inquirer": "^8.2.4",
     "jest": "^29.6.2"
-  }
+  },
+  "name": "challenge-10-logo.sv-gnerator",
+  "description": "logo.svg generator using command line inputs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "cgwol",
+  "license": "MIT"
 }
