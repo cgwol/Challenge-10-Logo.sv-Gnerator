@@ -17,7 +17,7 @@
 ## Installation
   Install with node using node with the command line input 
   
-  npm install
+    npm install
 
   in the command line
 
@@ -36,7 +36,7 @@
 ## Testing
   Use the command 
 
-  npm run test
+    npm run test
 
   in the command line
   
@@ -44,4 +44,4 @@
   Created by: [cgwol](https://github.com/cgwol/)
 
 ## Video
-    [Video](https://drive.google.com/file/d/1iLrbAZHkmm8xVVBvXWi4_0dkTrlivfD-/view?usp=sharing)
+    ![Video](https://drive.google.com/file/d/1iLrbAZHkmm8xVVBvXWi4_0dkTrlivfD-/view?usp=sharing)
